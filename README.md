@@ -1,6 +1,6 @@
 # Joke Teller
 
-This projects is still a work in progress
+WARNING JOKES MIGHT BE OFFENSIVE
 
 ## Table of contents
 
@@ -10,7 +10,6 @@ This projects is still a work in progress
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 
 ## Overview
 
@@ -20,16 +19,16 @@ Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
-- Calculate the correct tip and total cost of the bill per person
+- hear a joke after pressing the tell me a joke button
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot from 2022-06-09 21-10-40](https://user-images.githubusercontent.com/101960666/172970400-b1b201a3-23db-4b39-9ae9-84eea9039fb0.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://happi89.github.io/joke-teller/)
 
 ## My process
 
@@ -37,26 +36,4 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
 - Mobile-first workflow
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
